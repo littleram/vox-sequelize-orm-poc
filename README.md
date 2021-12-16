@@ -1,0 +1,1 @@
+# vox-sequelize-orm-poc
